@@ -1,1 +1,1 @@
-# RC-Car-XLR8
+We had built a Remote controlled car, which can easily climb any tough terrain beacause of high torque motors installed in it, above two files contains the code used for both Joystick and Car installed ESP-32 Microcontrollers, Joystick ESP sends control signals to Motor ESP with WIFI- module and then motor ESP decodes this message and send PWM signals to all fours motors accordingly.
